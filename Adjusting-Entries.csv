@@ -1,0 +1,41 @@
+,ADJUSTING ENTRIES,,,,,,,,,ADJUSTING ENTRIES,,,,,,
+,JANUARI 2024,,,,,,,,,FEBRUARI 2024,,,,,,
+,,,,,,,,,,,,,,,,
+,Depreciation/Amortization,,,,,No Ref:,,,,Depreciation/Amortization,,,,,No Ref:,
+,Date,Remarks,Nomor Akun,Reff,Account Description,Debit,Kredit,,,Date,Remarks,Nomor Akun,Reff,Account Description,Debit,Kredit
+,31-Jan-24,Building,6201,D,Depreciation – Building,"104,166,666.67",,,,29-Feb-24,Building,6201,D,Depreciation – Building,"104,166,666.67",
+,,,1301,K,Accumulated Depreciation – Building,,"104,166,666.67",,,,,1301,K,Accumulated Depreciation – Building,,"104,166,666.67"
+,,,,,,,,,,,,,,,,
+,31-Jan-24,Machinery,6202,D,Depreciation – Machine,"78,125,000.00",,,,29-Feb-24,Machinery,6202,D,Depreciation – Machine,"182,291,666.67",
+,,,1302,K,Accumulated Depreciation – Machine,,"78,125,000.00",,,,,1302,K,Accumulated Depreciation – Machine,,"182,291,666.67"
+,,,,,,,,,,,,,,,,
+,31-Jan-24,Factory Equipment,6203,D,Depreciation – Factory Equipment,"41,666,666.67",,,,29-Feb-24,Factory Equipment,6203,D,Depreciation – Factory Equipment,"41,666,666.67",
+,,,1303,K,Accumulated Depreciation – Factory Equipment,,"41,666,666.67",,,,,1303,K,Accumulated Depreciation – Factory Equipment,,"41,666,666.67"
+,,,,,,,,,,,,,,,,
+,31-Jan-24,IT Equipment (Laptop),6205,D,Depreciation – IT Equipment,"3,125,000.00",,,,29-Feb-24,IT Equipment (Laptop),6204,D,Depreciation – Vehicle,"3,125,000.00",
+,,,1305,K,Accumulated Depreciation – IT Equipment,,"3,125,000.00",,,,,1304,K,Accumulated Depreciation – Vehicle,,"3,125,000.00"
+,,,,,,,,,,,,,,,,
+,31-Jan-24,Office Equipment,6206,D,Depreciation – Office Equipment,"312,500.00",,,,29-Feb-24,Office Equipment,6205,D,Depreciation – IT Equipment,"312,500.00",
+,,,1306,K,Accumulated Depreciation – Office Equipment,,"312,500.00",,,,,1305,K,Accumulated Depreciation – IT Equipment,,"312,500.00"
+,,,,,,,,,,,,,,,,
+,31-Jan-24,Vehicle,6204,D,Depreciation – Vehicle,"9,166,666.67",,,,29-Feb-24,Vehicle,6206,D,Depreciation – Office Equipment,"9,166,666.67",
+,,,1304,K,Accumulated Depreciation – Vehicle,,"9,166,666.67",,,,,1306,K,Accumulated Depreciation – Office Equipment,,"9,166,666.67"
+,,,,,,,,,,,,,,,,
+,31-Jan-24,IT Equipment (CCTV),6205,D,Depreciation – IT Equipment,"250,000.00",,,,29-Feb-24,IT Equipment (CCTV),6205,D,Depreciation – IT Equipment,"250,000.00",
+,,,1305,K,Accumulated Depreciation – IT Equipment,,"250,000.00",,,,,1305,K,Accumulated Depreciation – IT Equipment,,"250,000.00"
+,,,,,,,,,,,,,,,,
+,31-Jan-24,Intangible (CATIA),6207,D,Amortization – Intangible,"4,166,666.67",,,,29-Feb-24,Intangible (CATIA),6207,D,Amortization – Intangible,"4,166,666.67",
+,,,1307,K,Accumulated Amortization – Intangible,,"4,166,666.67",,,,,1307,K,Accumulated Amortization – Intangible,,"4,166,666.67"
+,,,,,,,,,,,,,,,,
+,Total Ending,,,,,"240,979,166.67","240,979,166.67",,,Total Ending,,,,,"345,145,833.33","345,145,833.33"
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,Prepaid Expense,,,,,No Ref:,,,,Prepaid Expense,,,,,No Ref:,
+,Date,Remarks,Nomor Akun,Reff,Account Description,Debit,Kredit,,,Date,Remarks,,Reff,Account Description,Debit,Kredit
+,31-Jan-24,Insurance,6111,D,Insurance Expense,"10,000,000.00",,,,29-Feb-24,Insurance,6111,D,Insurance Expense,"10,000,000.00",
+,,,1106,K,Prepaid Insurance,,"10,000,000.00",,,,,1106,K,Prepaid Insurance,,"10,000,000.00"
+,,,,,,,,,,,,,,,,
+,31-Jan-24,License (CATIA),6112,D,License Expense,"5,000,000.00",,,,29-Feb-24,License (CATIA),6112,D,License Expense,"5,000,000.00",
+,,,1107,K,Prepaid Other Expense,,"5,000,000.00",,,,,1107,K,Prepaid Other Expense,,"5,000,000.00"
+,,,,,,,,,,,,,,,,
+,Total Ending,,,,,"15,000,000.00","15,000,000.00",,,Total Ending,,,,,"15,000,000.00","15,000,000.00"
