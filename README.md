@@ -35,5 +35,7 @@ Briefly explain the goal of this spreadsheet. What business or financial problem
 * **Data Automation:** Power Query (for cleaning raw monthly reports), VBA Macros.
 * **Analytics:** Pivot Tables, Interactive Slicers, Conditional Formatting.
 
-## 📸 Dashboard Previews
-*(Tip: Take a screenshot of your beautiful Excel charts, click the image icon in the GitHub text editor toolbar, and upload it right here so viewers can instantly see your design without downloading the spreadsheet!)*
+## 📝 Credits & Acknowledgments
+* **Business Scenario & Data:** The underlying business transactions and financial scenario were provided by **[Harisenin.com](https://www.harisenin.com/)** as part of the **Accounting & Tax Bootcamp #8** curriculum.
+* **Implementation:** All spreadsheet architecture, journal entries, account reconciliations, and financial statement layouts were constructed independently by me.
+
