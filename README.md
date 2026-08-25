@@ -19,4 +19,4 @@ A project from [Harisenin.com](https://www.harisenin.com/) Accounting & Tax Boot
 * **Implementation:** All spreadsheet architecture, journal entries, account reconciliations, and financial statement layouts were constructed independently by me.
 
 ## Contact 
-📫 [Email](damarjatidzikri@gmail.com) | [LinkedIn](https://www.linkedin.com/in/dzikridamarjati/) | [GitHub](https://github.com/damarjatidzikri) |
+📫 [Email](mailto:damarjatidzikri@gmail.com) | [LinkedIn](https://www.linkedin.com/in/dzikridamarjati/) | [WhatsApp](https://wa.me/6285117631700) 
