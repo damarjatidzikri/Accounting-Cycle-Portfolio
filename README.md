@@ -18,3 +18,5 @@ A project from [Harisenin.com](https://www.harisenin.com/) Accounting & Tax Boot
 * **Business Scenario & Data:** The underlying business transactions and financial scenario were provided by **[Harisenin.com](https://www.harisenin.com/)** as part of the **Accounting & Tax Bootcamp #8** curriculum.
 * **Implementation:** All spreadsheet architecture, journal entries, account reconciliations, and financial statement layouts were constructed independently by me.
 
+## Contact 
+📫 [Email](damarjatidzikri@gmail.com) | [LinkedIn](https://www.linkedin.com/in/dzikridamarjati/) | [GitHub](https://github.com/damarjatidzikri) |
